@@ -7,7 +7,7 @@ Includes both the authentication and secure servers
 Install [Go](https://go.dev/doc/install) and [git](https://git-scm.com/downloads), then clone and enter the repository
 
 ```bash
-$ git clone https://github.com/PretendoNetwork/mario-kart-7
+$ git clone https://github.com/SamtendoNetwork/mario
 $ cd mario-kart-7
 ```
 
